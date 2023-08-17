@@ -1,9 +1,3 @@
-//*******    Group Members     *********
-//Raheeb Ahmad                    BCSF20M020
-//Muhammad Qadeer                 BCSF20M037
-//Muhammad Bilal                  BCSF20M040
-
-
 
 #ifndef TEAM
 #define TEAM
